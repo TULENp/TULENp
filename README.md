@@ -8,7 +8,7 @@
 
 [![TULENz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TULENz&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TULENz&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=TULENz&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=TULENz)
 <!--
