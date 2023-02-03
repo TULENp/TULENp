@@ -1,6 +1,6 @@
 ## I'm Eugene Kononenko, a frontend developer 
 
-<h3><a href='https://drive.google.com/file/d/1joueOkJpuFTdOgBf5TcNYVu5diF4OYGE/view'>My CV - Frontend developer (React)</a></h3>
+<h3><a href='https://drive.google.com/file/d/1_ehCHIS04zl9aZGz8VFawSw8JTnBj5Qt/view'>My CV - Frontend developer (React)</a></h3>
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
