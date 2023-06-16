@@ -18,11 +18,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Ms%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-
-
-[![TULENp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TULENp&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TULENp&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
