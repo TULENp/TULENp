@@ -17,7 +17,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) -->
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TULENp&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TULENp&langs_count=4&layout=compact&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=TULENp)
 
