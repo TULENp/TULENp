@@ -19,12 +19,12 @@
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 
-<!--
-[![TULENp's GitHub stats](https://github-readme-stats-tulenz.vercel.app/api?username=TULENp&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![TULENp's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TULENp&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats-tulenz.vercel.app/api/top-langs/?username=TULENp&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TULENp&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=TULENp)
 
