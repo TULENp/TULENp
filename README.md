@@ -15,9 +15,9 @@
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) -->
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TULENp&langs_count=4&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TULENp&langs_count=4&layout=compact&theme=transparent) -->
 
 ![](https://komarev.com/ghpvc/?username=TULENp)
 
